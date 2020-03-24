@@ -1,2 +1,2 @@
 # automationwrkspace
-Appium script for mobile app testing
+Appium script for mobile app testing and web testing
